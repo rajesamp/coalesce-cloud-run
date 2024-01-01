@@ -1,0 +1,14 @@
+# helpers
+Project Id:
+
+Project Hash:
+
+Cloud SQL Service Account:
+
+Cloud SQL Public IP:
+
+Cloud SQL Private IP:
+
+Cloud Storage Service Account:
+
+Account Balance Cloud Run Service URL:
